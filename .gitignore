@@ -130,3 +130,7 @@ dmypy.json
 
 
 *.mp4
+
+*.prototxt
+*.caffemodel
+*.npy
